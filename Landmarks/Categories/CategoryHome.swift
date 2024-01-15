@@ -1,6 +1,7 @@
 import SwiftUI
 
 struct CategoryHome: View {
+    @Environment(ModelData.self) var modelData
     var body: some View {
         NavigationSplitView {
             Text("Sidebar")
@@ -13,4 +14,5 @@ struct CategoryHome: View {
 
 #Preview {
     CategoryHome()
+        .environment(ModelData())
 }
