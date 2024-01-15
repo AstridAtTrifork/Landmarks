@@ -11,6 +11,7 @@ enum Category: String, CaseIterable, Codable {
 struct Landmark: Hashable, Codable, Identifiable {
     var id: Int
     var isFavorite: Bool
+    var isFeatured: Bool
     var name: String
     var park: String
     var state: String

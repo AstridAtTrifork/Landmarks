@@ -124,12 +124,12 @@
 			isa = PBXGroup;
 			children = (
 				BD71A79C2B4D40F30022BBCA /* LandmarksApp.swift */,
+				BD71A7A22B4D40F60022BBCA /* Preview Content */,
 				BD71A7A02B4D40F60022BBCA /* Assets.xcassets */,
 				BD9F78CE2B515D5D00E3EF37 /* Badges */,
 				BD63375D2B553DCD000BDAC1 /* Categories */,
 				BD6337542B552D2F000BDAC1 /* Hikes */,
 				BD7929162B4E942900224A28 /* Models */,
-				BD71A7A22B4D40F60022BBCA /* Preview Content */,
 				BD7929142B4E93A800224A28 /* Resources */,
 				BD7929122B4E938800224A28 /* Views */,
 			);
