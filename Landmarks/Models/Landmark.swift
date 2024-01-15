@@ -2,6 +2,12 @@ import Foundation
 import SwiftUI
 import CoreLocation
 
+enum Category: String, CaseIterable, Codable {
+    case lakes = "Lakes"
+    case rivers = "Rivers"
+    case mountains = "Mountains"
+}
+
 struct Landmark: Hashable, Codable, Identifiable {
     var id: Int
     var isFavorite: Bool
