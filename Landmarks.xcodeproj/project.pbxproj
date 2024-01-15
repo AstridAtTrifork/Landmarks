@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD6337532B552B40000BDAC1 /* Hike.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6337522B552B40000BDAC1 /* Hike.swift */; };
 		BD71A79D2B4D40F30022BBCA /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD71A79C2B4D40F30022BBCA /* LandmarksApp.swift */; };
 		BD71A79F2B4D40F30022BBCA /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD71A79E2B4D40F30022BBCA /* ContentView.swift */; };
 		BD71A7A12B4D40F60022BBCA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD71A7A02B4D40F60022BBCA /* Assets.xcassets */; };
@@ -31,6 +32,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD6337522B552B40000BDAC1 /* Hike.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Hike.swift; sourceTree = "<group>"; };
 		BD71A7992B4D40F30022BBCA /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD71A79C2B4D40F30022BBCA /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
 		BD71A79E2B4D40F30022BBCA /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -89,6 +91,7 @@
 				BD9F78CE2B515D5D00E3EF37 /* Badges */,
 				BD71A79C2B4D40F30022BBCA /* LandmarksApp.swift */,
 				BD7929162B4E942900224A28 /* Models */,
+				BD6337522B552B40000BDAC1 /* Hike.swift */,
 				BD71A7A22B4D40F60022BBCA /* Preview Content */,
 				BD7929142B4E93A800224A28 /* Resources */,
 				BD7929122B4E938800224A28 /* Views */,
@@ -241,6 +244,7 @@
 				BD9F78C72B51334700E3EF37 /* HexagonParameters.swift in Sources */,
 				BD9F78D22B51605B00E3EF37 /* Badge.swift in Sources */,
 				BD9F78C92B51384100E3EF37 /* Segment.swift in Sources */,
+				BD6337532B552B40000BDAC1 /* Hike.swift in Sources */,
 				BD71A79F2B4D40F30022BBCA /* ContentView.swift in Sources */,
 				BD71A7AD2B4D48E00022BBCA /* MapView.swift in Sources */,
 				BD71A79D2B4D40F30022BBCA /* LandmarksApp.swift in Sources */,
